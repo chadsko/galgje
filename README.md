@@ -4,7 +4,7 @@
 
 | | | | |
 
-|-|U|S|H|
+|P|U|S|H|
 
 |1|2|3|4|
 
@@ -28,4 +28,5 @@
 * H  
 * Goed!  
 
-* P  
+* P   
+* Goed! Het antwoord was "push"
