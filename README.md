@@ -14,9 +14,11 @@
 ## Beurten
 <<<<<<< HEAD
   
+<<<<<<< HEAD
 =======  
 I goed!  
 L fout!  
 P fout!  
 V goed!  
 S goed!!!!! 
+=======
